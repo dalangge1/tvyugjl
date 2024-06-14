@@ -1,0 +1,14 @@
+
+#*.pth
+*.onnx
+*.ckpt
+*.pyc
+.idea/
+venv/
+asset/background_music/
+asset/font/
+asset/motion_effects/
+asset/sound_effects/
+hf_download/
+GPT_SoVITS/weights/
+*.exe

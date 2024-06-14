@@ -1,0 +1,1 @@
+./GPT_SoVITS/weights/laoren/刃-e10.ckpt

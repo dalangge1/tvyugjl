@@ -1,0 +1,1 @@
+./GPT_SoVITS/weights/laoren/刃_e15_s360_so_vits.pth
