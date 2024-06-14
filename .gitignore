@@ -12,3 +12,4 @@ asset/sound_effects/
 hf_download/
 GPT_SoVITS/weights/
 *.exe
+GPT_SoVITS/SoVITS_weights/wangjianv5e4s64.pth
